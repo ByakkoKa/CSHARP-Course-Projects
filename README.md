@@ -1,2 +1,2 @@
-# Course_Projects-
+# Course Project
 Course projects and bootcamps
