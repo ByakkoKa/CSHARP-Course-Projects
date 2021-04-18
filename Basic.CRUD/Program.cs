@@ -41,6 +41,9 @@ namespace Basic.CRUD
 
                 userOption = GetUserOption();
             }
+
+            Console.WriteLine("Thank you to use our application.");
+            Console.ReadLine();
         }
 
 
